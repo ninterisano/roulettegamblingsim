@@ -1,5 +1,5 @@
 #Roulette Simulator
-
+#Testing for Github
 #Creating our win criteria
 #Numbers on an American Roulette
 wheel<-c("00",0:36)
